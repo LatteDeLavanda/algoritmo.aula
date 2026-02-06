@@ -8,6 +8,6 @@ programa {
     }
     senao {
       escreva ("menor de idade")
-  }
+    }
   }
 }
